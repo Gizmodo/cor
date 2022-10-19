@@ -1,0 +1,1 @@
+C:\Users\user\IdeaProjects\cor\build\classes\kotlin\main\MainKt$fetchDataFromRemote$1.class;C:\Users\user\IdeaProjects\cor\build\classes\kotlin\main\MainKt$networkRequest$1.class;C:\Users\user\IdeaProjects\cor\build\classes\kotlin\main\MainKt$networkRequest$2.class;C:\Users\user\IdeaProjects\cor\build\classes\kotlin\main\MainKt.class
